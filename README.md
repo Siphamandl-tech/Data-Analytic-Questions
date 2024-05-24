@@ -256,5 +256,3 @@ Infographic
 
 Scatter chart
 
-
-
